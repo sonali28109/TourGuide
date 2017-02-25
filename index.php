@@ -9,9 +9,9 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/abcd.jpg'>
+				<img class = 'newappIcon' src='images/hd.jpg'>
 				<style>
-					background-image:url('images/hd.jpg'); </style>
+					background-image:url('images/abcd.jpg'); </style>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "WatsonTourGuide"; ?></h1>
