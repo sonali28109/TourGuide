@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body bgcolor="pink">
 	<table>
 		<tr>
 			<td style='width: 30%;'>
