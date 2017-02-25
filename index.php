@@ -17,7 +17,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "WatsonTourGuide"; ?></h1>
-				<p class='description'></p> Created By WatsonTeam<span class="blue">TextToSpeech Application</span>.
+				<p class='description'></p> Created By WatsonTeam<span class="blue">TextToSpeech Application</span>!
 			</td>
 		</tr>
 	</table>
