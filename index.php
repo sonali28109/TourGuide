@@ -5,13 +5,13 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
-<body bgcolor="pink">
+<body >
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/hd.jpg'>
+				<img class = 'newappIcon' src='images/travel.gif'>
 				<style>
-					background-image:url('images/travel.gif'); </style>
+					background-image:url('images/hd.jpg'); </style>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "WatsonTourGuide"; ?></h1>
