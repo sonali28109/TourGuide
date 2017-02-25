@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP Starter Application</title>
+	<title>Watson Tour Application</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -13,8 +13,8 @@
 				 background-image: url("travel-gif.jpg");
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "IsscTourGuide"; ?></h1>
-				<p class='description'></p> Thanks<span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "WatsonTourGuide"; ?></h1>
+				<p class='description'></p> Created By WatsonTeam<span class="blue">PHP Starter Application</span>.
 			</td>
 		</tr>
 	</table>
