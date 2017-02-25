@@ -10,6 +10,7 @@
 		<tr>
 			<td style='width: 30%;'>
 				<img class = 'newappIcon' src='images/hd.jpg'>
+				background-image:url('images/travel.gif');
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "WatsonTourGuide"; ?></h1>
