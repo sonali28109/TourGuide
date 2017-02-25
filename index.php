@@ -9,7 +9,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/trv.jpg'>
+				<img class = 'newappIcon' src='images/hd.jpg'>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "IsscTourGuide"; ?></h1>
