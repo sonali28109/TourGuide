@@ -9,7 +9,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/travel.gif'>
+				<img class = 'newappIcon' src='images/abcd.jpg'>
 				<style>
 					background-image:url('images/hd.jpg'); </style>
 			</td>
