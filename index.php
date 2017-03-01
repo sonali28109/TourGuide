@@ -7,6 +7,7 @@
 	
 </head>
 <body >
+	<body style="background-color:powderblue;">
 	<table>
 		<tr>
 			<td style='width: 30%;'>
