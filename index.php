@@ -7,8 +7,9 @@
 	
 </head>
 <body >
-	<table>
-		<tr>
+	<table><body>
+               <p style="color:#FF0000";>Red paragraph text</p>
+	        <tr>
 			<td style='width: 30%;'>
 				<img class = 'newappIcon' src='images/travel.gif'>
 				<style>
