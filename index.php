@@ -8,6 +8,10 @@
 </head>
 <body >
 	<table>
+	
+
+            background: #E0E0E0; 
+
 		<tr>
 			<td style='width: 30%;'>
 				<img class = 'newappIcon' src='images/travel.gif'>
