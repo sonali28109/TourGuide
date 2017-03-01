@@ -7,12 +7,13 @@
 	
 </head>
 <body >
+	<body style="background-color:powderblue;">
 	<table>
 		<tr>
 			<td style='width: 30%;'>
 				<img class = 'newappIcon' src='images/travel.gif'>
 				<style>
-					background-image:url('images/abcd.jpg');
+					//background-image:url('images/abcd.jpg');
 				</style>
 			</td>
 			<td>
